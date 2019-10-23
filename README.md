@@ -1,4 +1,7 @@
 # Delay Send
+
+This script is obselete because gmail now includes schedule send. 
+
 This script does one simple thing. It lets you delay sending email until a certain time or for a specific amount fo time. This is based off WebDigi's Gmail Scheduler with some fixes and reduced functionality/options so it just does one simple thing: Take a draft and send it at a later time. The methodology excels at easily re-usable triggers for instance, I have an end of day trigger set for "5:00pm" and a generic "2 hours later" trigger that both get used a lot.
 
 ## Delay Send features
